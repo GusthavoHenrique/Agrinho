@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+:root{
+    --cor1:#EBF3F9;
+    --cor2:#94A7B8;
+    --cor3:#5A758E;
+    --cor4:#2F4A63;
+    --cor5:#112639;
+    --cor6:#071E33;
+}
+
+body{
+    background-color: var(--cor1);
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titulo_principal{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+}
+
+.titulo_secundario{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+        font-size: 25px;
+}
+
+.titulo_tres{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: left;
+        font-size: 25px;
+}
+
+.titulo_quatro{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: left;
+        font-size: 25px;
+}
+
+.paragrafo_principal{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+}
+
+.paragrafo_artigo{
+        font-size: 18px;
+}
+
+.menu{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+}
