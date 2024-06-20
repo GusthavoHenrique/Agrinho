@@ -94,7 +94,7 @@ article {
 .container_imagem{
   max-width: 800px;
   min-width: 280px;
-  align-items: center;
+  text-align: center;
 }
 
 footer {
